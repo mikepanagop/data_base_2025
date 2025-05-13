@@ -1,3 +1,5 @@
+#hi
+
 DROP SCHEMA if exists `pulse_uni_schema`;
 CREATE SCHEMA `pulse_uni_schema`;
 USE pulse_uni_schema;
